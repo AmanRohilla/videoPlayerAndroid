@@ -6,6 +6,6 @@ public class playerObjects {
         this.url = url;
         this.isPlaying = isPlaying;
     }
-    public String url;
+    public  String url;
     public boolean isPlaying;
 }
